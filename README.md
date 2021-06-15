@@ -5,7 +5,7 @@
 - I'm currently working on a Plugin that is SUPPOSED to make Minecarts Smooth again. It's based on TrainCarts hence the name TrainCartsLite but it's still my biggest project yet.
 - I have no clue when I will actually get to finishing the aforementioned project.
 
-### Connect with me:
+### Reach out:
 
 [<img align="left" alt="katsumag#7876 - Discord logo from Icons8" width="22px" src="https://img.icons8.com/fluent/48/000000/discord-new-logo.png"/>][discord]
 <br />
