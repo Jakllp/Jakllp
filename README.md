@@ -2,8 +2,7 @@
 
 ## What I do:
 - I'm developing/maintaining a few Minecraft-Bukkit plugins.
-- I'm currently working on a Plugin that is SUPPOSED to make Minecarts Smooth again. It's based on TrainCarts hence the name TrainCartsLite but it's still my biggest project yet.
-- I have no clue when I will actually get to finishing the aforementioned project.
+- Wow that doesn't seem like much.
 
 ### Reach out:
 
