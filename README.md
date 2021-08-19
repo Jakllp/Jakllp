@@ -2,7 +2,7 @@
 
 ## What I do:
 - I'm developing/maintaining a few Minecraft-Bukkit plugins.
-- Currently helping [MyPet](https://github.com/scomans/MyPet) to get to 1.17
+- Currently helping [MyPet](https://github.com/scomans/MyPet) to get to 1.17 ([My Fork](https://github.com/Jakllp/MyPet)]
 - Wow that doesn't seem like much.
 
 ### Reach out:
