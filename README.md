@@ -9,7 +9,7 @@ Someone asked me if I had patreon.
 I wouldn't know what to give as perks so I just have [Github Sponsors](https://github.com/sponsors/Jakllp/)
 
 ### Wanna reach me?
-Join my Minecraft related [Discord](https://discord.gg/mF7GpK2vJU)
+Join my Minecraft related [Discord](https://discord.gg/mF7GpK2vJU)  
 There might be more here at some point
 
 ---
