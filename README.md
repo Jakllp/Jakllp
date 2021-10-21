@@ -4,10 +4,6 @@
 - I'm developing/maintaining a few Minecraft-Bukkit plugins.
 - I'm currently preparing some content for YouTube that isn't Minecraft related
 
-
-Someone asked me if I had patreon.    
-Sadly not. And for legal reasons I deactivated Github Sponsors.
-
 ---
 
 ### Wanna reach me?
