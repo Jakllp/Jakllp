@@ -5,8 +5,8 @@
 - I'm currently preparing some content for YouTube that isn't Minecraft related
 
 
-Someone asked me if I had patreon.  
-I wouldn't know what to give as perks so I just have [Github Sponsors](https://github.com/sponsors/Jakllp/)
+Someone asked me if I had patreon.    
+Sadly not. And for legal reasons I deactivated Github Sponsors.
 
 ---
 
