@@ -2,7 +2,6 @@
 
 ## What I do:
 - I'm developing/maintaining a few Minecraft-Bukkit plugins.
-- I'm currently preparing some content for YouTube that isn't Minecraft related
 
 ---
 
