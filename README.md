@@ -6,6 +6,4 @@
 ---
 
 ### Wanna reach me?
-Join my Minecraft related [Discord](https://discord.gg/mF7GpK2vJU)  
-There might be more here at some point
-
+You can find me on the [MyPet Discord](https://discord.com/invite/GtcdWFw)
