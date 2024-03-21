@@ -2,6 +2,7 @@
 
 ## What I do:
 - I'm developing/maintaining a few Minecraft-Bukkit plugins.
+- Part of Three's A Crowd Games aka random little Games
 
 ---
 
